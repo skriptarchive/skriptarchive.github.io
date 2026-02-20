@@ -1,3 +1,11 @@
-* [Main Page](/) 
+* [Getting Started](/) 
 
-* [Page 2](page2)
+* Scripts
+  
+  * [Admin](Admin)
+  * [Utility](Utility)
+  * [Fun](Fun)
+  * [GUI](GUI)
+  * [Economy](Economy)
+  * [Events](Events)
+  * [Functions](Functions)
